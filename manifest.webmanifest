@@ -1,0 +1,10 @@
+{
+  "name": "FORGE Fitness System",
+  "short_name": "FORGE",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101214",
+  "theme_color": "#101214",
+  "description": "Personal workout, nutrition and progress tracker",
+  "icons": []
+}
